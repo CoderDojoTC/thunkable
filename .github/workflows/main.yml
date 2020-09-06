@@ -5,9 +5,6 @@ name: Build Documentation using MkDocs
 on:
   push:
     branches: [master]
-  pull_request:
-    # This might not be what we want, it might run when a PR is *submitted*, rather than merged, docs seem unclear
-    branches: [master]
 
 jobs:
   build:
