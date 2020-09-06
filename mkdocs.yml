@@ -2,7 +2,7 @@ site_name: 'CoderDojo TC Thunkable Resources'
 nav:
   - Home: index.md
   - Basics:
-      - Introduction: intro.md
+      - Introduction: basics/intro.md
       - 01 - Getting Started: basics/01-get-started.md
       - 02 - App Designer: basics/02-app-designer.md
       - 03 - App Blocks Editor: basics/03-blocks-editor.md
