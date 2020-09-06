@@ -2,9 +2,13 @@ appinventor
 coderdojo
 coderdojotc
 codesavvy
+flappy
 github
+google
 iphone
 mccreary
 pseudocode
 technovation
 thunkable
+walkthroughs
+website
