@@ -6,7 +6,7 @@
 * Optional: A device to test applications (phone, tablet, etc)
 
 ### Sign-in
-Using a computer or tablet, go to [the Thunkable website](https://x.thunkable.com/login) and sign-in with the Google, Apple, or email address account that you would like to use to store your applications.
+Using a computer or tablet, go to [the Thunkable website](https://x.thunkable.com/login){target=_blank} and sign-in with the Google, Apple, or email address account that you would like to use to store your applications.
 
 ### Creating a project
 On the Thunkable website, if this is your first time signing in, there should be a large banner that says "Start Building." Click this banner, and a pop-up should appear to create a new Project. If you already have a Project, clicking Create New App will open the pop-up to create a new Project.
