@@ -30,4 +30,4 @@ Change it to something to get somebody to click your button! `Click Me!` is stra
 
 
 ### Next Step
-The screen now looks exactly how we want it! You can take a look at it by [testing it.](../basics/basics-04-testing-saving.md) Unfortunately, the button doesn't do anything yet! Click the "Next" button below to program your button.
+The screen now looks exactly how we want it! You can take a look at it by [testing it.](../basics/basics-04-testing-saving.md) Unfortunately, the button does not do anything yet! Click the "Next" button below to program your button.
