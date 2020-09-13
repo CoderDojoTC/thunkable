@@ -6,4 +6,4 @@ This website is for sharing teaching resources for Thunkable.
 
 Thunkable is replacing AppInventor as our mobile application development tool of choice, because Thunkable allows for the creation of iPhone apps in addition to Android. In addition, Thunkable makes testing and downloading apps much easier.
 
-View the [basics section](basics/intro.md) to get started.
+View the [basics section](basics/basics-intro.md) to get started.
