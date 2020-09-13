@@ -23,7 +23,6 @@ theme:
   palette:
     primary: '#642580'
     accent: '#41BAC1'
-
   feature:
     tabs: true
   custom_dir: 'theme'
@@ -34,3 +33,4 @@ markdown_extensions:
       permalink: true
   - codehilite:
       linenums: true
+  - attr_list

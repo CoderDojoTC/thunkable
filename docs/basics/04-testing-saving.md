@@ -11,6 +11,6 @@ An app can be tested in two ways directly in the browser that is being used to c
 
 ### Setting up a device
 
-If a user has a mobile device for testing their newly developed applications, they will need to download [the Thunkable Live app](https://thunkable.com/#/mobile) from the Google Play Store or Apple App Store.
+If a user has a mobile device for testing their newly developed applications, they will need to download [the Thunkable Live app](https://thunkable.com/#/mobile){target=_blank} from the Google Play Store or Apple App Store.
 
 Sign into the Thunkable Live app with the same account that was used to create the app at the Thunkable website. After signing in to Thunkable Live, the user should see their app on their device under "My Projects." Clicking on the name of the app will open the app on the device. Any changes to the app on the Thunkable website should be reflected on the mobile device almost immediately.
