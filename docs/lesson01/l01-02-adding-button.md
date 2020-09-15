@@ -4,8 +4,12 @@ In this step, you will add a button to the screen, and then change it into a Big
 ### Add a button
 Drag the `Button` item from the components tray on the left onto the screen viewer.
 
+![Add a button](../../img/bigredbutton/drag_button.jpg)
+
+
 ### Edit the button
-In order to change the way the button looks, it needs to be selected. Select the button by either
+In order to change the way the button looks, it needs to be selected. Select the button by either:
+
 * Clicking on the button in the screen viewer
 * Clicking the name of the button in the App Tree in the upper left of the screen
 
@@ -20,6 +24,9 @@ Set Font Size to `80`
 Set Height to `Absolute Size`: 150
 
 Set Width to `Absolute Size`: 150
+
+
+![Add a button](../../img/bigredbutton/edit_button.jpg)
 
 
 ### Add a label
