@@ -1,6 +1,8 @@
 # Adding the Big Red Button
 In this step, you will add a button to the screen, and then change it into a Big Red Button.
 
+[TOC]
+
 ### Add a button
 Drag the `Button` item from the components tray on the left onto the screen viewer.
 
@@ -13,24 +15,22 @@ In order to change the way the button looks, it needs to be selected. Select the
 * Clicking on the button in the screen viewer
 * Clicking the name of the button in the App Tree in the upper left of the screen
 
-Assign a name to the button: `BigRedButton`
+After selecting the button, it should show up in the component properties section on the right side of the screen. In order to make the button big, red, and <i>mysterious</i>, we will change some of the button properties:
 
-Change the Text to say `?`
+* Rename the button: `BigRedButton`
+* Change the `Text` to say "?"
+* Set `Font Size` to `80`
+* Change the `BackgroundColor` to red
+* Set `Height` to "Absolute Size" 150
+* Set `Width` to "Absolute Size" 150
 
-Change the Background Color to red
+The button settings should look something like this:
 
-Set Font Size to `80`
-
-Set Height to `Absolute Size`: 150
-
-Set Width to `Absolute Size`: 150
-
-
-![Add a button](../../img/bigredbutton/edit_button.jpg)
+![Edit the button](../../img/bigredbutton/edit_button.jpg)
 
 
 ### Add a label
-Drag the `Label` item from the components tray onto the screen viewer
+Drag a `Label` item from the components tray onto the screen viewer, the same way the button was added.
 
 ### Edit the label
 Change it to something to get somebody to click your button! `Click Me!` is straight to the point.
