@@ -1,5 +1,5 @@
 # More Resources
-There are many Thunkable tutorials available. Once a student understands the basics of Thunkable development, they may be interested in developing their own creative vision for an app.
+There are many Thunkable tutorials available. Once a student understands the basics of Thunkable development, they may be interested in developing their own creative vision for an app. We have some of our own tutorials on this site, the first one starts [here.](../lesson01/l01-01-intro.md)
 
 ### More Tutorials
 For more direction there are many existing tutorials and walkthroughs, including the following resources.
