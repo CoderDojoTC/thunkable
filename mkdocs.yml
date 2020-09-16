@@ -9,7 +9,7 @@ nav:
       - 04 - Testing and Saving an App: basics/basics-04-testing-saving.md
       - 05 - More Resources: basics/basics-05-more-resources.md
   - Lesson 01 - Big Red Button:
-      - 01 Introduction: lesson01/l01-01-intro.md
+      - 01 - Introduction: lesson01/l01-01-intro.md
       - 02 - Adding Button: lesson01/l01-02-adding-button.md
       - 03 - Programming Button: lesson01/l01-03-programming-button.md
       - 03b - Extra Button Actions: lesson01/l01-03b-button-actions.md
@@ -39,3 +39,4 @@ markdown_extensions:
   - codehilite:
       linenums: true
   - attr_list
+  - pymdownx.details

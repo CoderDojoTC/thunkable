@@ -1,8 +1,6 @@
 # Adding the Big Red Button
 In this step, you will add a button to the screen, and then change it into a Big Red Button.
 
-[TOC]
-
 ### Add a button
 Drag the `Button` item from the components tray on the left onto the screen viewer.
 
