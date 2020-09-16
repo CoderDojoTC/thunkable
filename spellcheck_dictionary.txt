@@ -4,8 +4,10 @@ bigredbutton
 coderdojo
 coderdojotc
 codesavvy
+edu
 flappy
 github
+gmail
 google
 grebin
 initialize
@@ -15,6 +17,7 @@ mccreary
 pseudocode
 technovation
 thunkable
+umn
 uploaded
 walkthroughs
 website
