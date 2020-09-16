@@ -1,4 +1,5 @@
 appinventor
+backgroundcolor
 bigredbutton
 coderdojo
 coderdojotc
@@ -6,10 +7,13 @@ codesavvy
 flappy
 github
 google
+initialize
 iphone
+jpg
 mccreary
 pseudocode
 technovation
 thunkable
+uploaded
 walkthroughs
 website
