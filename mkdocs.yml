@@ -13,6 +13,12 @@ nav:
       - 02 - Adding Button: lesson01/l01-02-adding-button.md
       - 03 - Programming Button: lesson01/l01-03-programming-button.md
       - 03b - Extra Button Actions: lesson01/l01-03b-button-actions.md
+  - Lesson 02 - Screens:
+      - 01 - Introduction: lesson02/l02-01-intro.md
+      - 02 - Renaming and Creating Screens: lesson02/l02-02-login-screen.md
+      - 03 - Page Navigation: lesson02/l02-03-switching-screens.md
+      - 04 - Home Screen: lesson02/l02-04-homescreen.md
+      - 05 - Extra Login Ideas: lesson02/l02-05-extra-customization.md
   - Technovation: technovation.md
   - Contribute: contribute.md
   - Contacts: contacts.md
