@@ -23,8 +23,10 @@ loginscreen
 mccreary
 navigates
 pseudocode
+screennavigation
 technovation
 thunkable
+typos
 umn
 uploaded
 walkthroughs
