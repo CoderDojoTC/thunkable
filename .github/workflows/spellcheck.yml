@@ -27,4 +27,4 @@ jobs:
           wget https://raw.githubusercontent.com/romangrebin/markdown-spellchecker/master/markdown_spellchecker.py
       - name: Run spellchecker
         run: |
-          python markdown_spellchecker.py -p docs -d spellcheck_dictionary.txt
+          python -u markdown_spellchecker.py -p docs -d spellcheck_dictionary.txt
