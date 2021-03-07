@@ -9,6 +9,7 @@ Future lessons will have the option of building within this same app as separate
 ### Output
 
 The resulting application will have multiple screens:
+
 * A login screen (the `Big Red Button`)
 * A loading screen
 * A homepage
